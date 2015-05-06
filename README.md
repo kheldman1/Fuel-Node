@@ -3,9 +3,9 @@
 This application allows users to utilize Salesforce Marketing Cloud's Fuel Platform Auth, REST and SOAP APIs for Node.js
 
 Learn more about our Fuel Platform Node Auth, REST, and SOAP libraries along with documentation and examples:
-[AUTH][1]
-[REST][2]
-[SOAP][3]
+* [AUTH][1]
+* [REST][2]
+* [SOAP][3]
 
 For step-by-step instructions on creating a Salesforce Marketing Cloud ClientID and ClientSecret, visit:
 [Salesforce Marketing Cloud - App Center] [4]
