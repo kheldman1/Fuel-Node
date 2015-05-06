@@ -1,0 +1,19 @@
+{
+  "name": "fuel-node",
+  "version": "1.0.0",
+  "description": "Fuel Platform's Auth, REST, and SOAP libraries for Node.js applications",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "license": "BSD-3-Clause", 
+  "engines": {
+    "node": "0.10.x"
+  },
+  "dependencies": {
+    "express": "^4.12.3",
+    "jade": "^1.9.2",
+    "fuel-auth": "1.0.0",
+    "fuel-rest": "0.8.0",
+    "fuel-soap": "1.0.0"
+  }
+}
