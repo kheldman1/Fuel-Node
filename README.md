@@ -1,4 +1,4 @@
-Fuel (for Node.js)
+# Fuel (for Node.js)
 
 [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
 
@@ -18,6 +18,7 @@ You can also learn more about *http request* calls from [our wiki][5].
 ## Deploy to Heroku
 
 You can deploy this app to Heroku and have it up and running instantly.
+
 [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
 
 
