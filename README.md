@@ -1,7 +1,5 @@
 # Fuel (for Node.js)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
-
 This application allows users to utilize Salesforce Marketing Cloud's Fuel Platform Auth, REST and SOAP APIs for Node.js
 
 Learn more about our Fuel Platform Node Auth, REST, and SOAP libraries along with documentation and examples:
