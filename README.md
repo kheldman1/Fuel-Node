@@ -10,8 +10,6 @@ Learn more about our Fuel Platform Node Auth, REST, and SOAP libraries along wit
 For step-by-step instructions on creating a Salesforce Marketing Cloud ClientID and ClientSecret, visit:
 [Salesforce Marketing Cloud - App Center] [4]
 
-You can also learn more about *http request* calls from [our wiki][5]. 
-
 
 ## Deploy to Heroku
 
@@ -43,9 +41,10 @@ Note: `npm install` will error if you're using node version 0.8 with developer d
 ### Running the Application
 
 Follow these instructions to run the application on your local machine:
+
 1. Change the current directory to Node-Fuel
 2. Execute the follwoing command: node app.js
-3. Open the following page in your web browser: [http://localhost:3000] [6]
+3. Open the following page in your web browser: [http://localhost:3000] [5]
 
 
 
@@ -53,5 +52,4 @@ Follow these instructions to run the application on your local machine:
 [2]: https://github.com/ExactTarget/Fuel-Node-REST
 [3]: https://github.com/ExactTarget/Fuel-Node-SOAP
 [4]: http://code.exacttarget.com/apis-sdks/rest-api/using-app-center-to-get-an-api-key.html
-[5]: https://github.com/mikeal/request#requestoptions-callback
-[6]: http://localhost:3000
+[5]: http://localhost:3000
