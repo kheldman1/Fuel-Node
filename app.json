@@ -1,12 +1,13 @@
 {
   "name": "SFMC Auth",
-  "description": "The Fuel Platform's Auth, REST and SOAP libraries for Node.js applications",
+  "description": "Salesforce Marketing Cloud's Auth, REST, SOAP",
   "repository": "https://github.com/kheldman1/Fuel-Node.git",
   "logo": "http://image.s6.exacttarget.com/lib/fe9112727360007b77/m/1/Salesforce_Marketing_Cloud.png",
   "keywords": [
     "salesforce",
     "fuel",
-    "node"
+    "node",
+    "new"
   ],
   "addons": [],
   "env": {}
