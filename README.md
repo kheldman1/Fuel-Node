@@ -43,7 +43,7 @@ Note: `npm install` will error if you're using node version 0.8 with developer d
 Follow these instructions to run the application on your local machine:
 
 1. Change the current directory to Node-Fuel
-2. Execute the follwoing command: node app.js
+2. Execute the follwoing command: *node app.js*
 3. Open the following page in your web browser: [http://localhost:3000] [5]
 
 
